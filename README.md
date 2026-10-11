@@ -31,15 +31,15 @@ I turn public and clinical omics data into publication-ready results. My work fo
 
 2. Ghani MU, **Mujtaba T**, Khan KU, Rehman SU, Rauf M, Rehman A.
    **Assessment of molybdenum-99m content in 99Mo/Tc-99m generator: A clinical audit at Cancer Hospital.**
-   *Pakistan Journal of Nuclear Medicine*, 14(1) (2025).
+   *Pakistan Journal of Nuclear Medicine*, 14(1) (2025). [Article](https://www.pjnmed.com/?mno=195911)
 
 3. **Mujtaba T**, Hashmi SU, Imtiaz UB, Nusra SJF.
    **Devising a breast cancer diagnosis protocol through machine learning.**
    *Brazilian Journal of Oncology*, 20 (2024). [doi:10.1055/s-0044-1791655](https://doi.org/10.1055/s-0044-1791655)
 
-4. Ahmed A, Rehman A, Ghani HMU, **Mujtaba T**, Khan NU, Rauf KUKM.
+4. Ahmed A, Rehman A, Ghani HMU, **Mujtaba T**, Khan NU, Khan KU, Rauf M.
    **Evaluation of parameters affecting intrinsic uniformity to perform best optimum daily QC.**
-   *Journal of Chemotherapy and Cancer Research*, 2(2), 1–4 (2024).
+   *Journal of Chemotherapy and Cancer Research*, 2(2), 1–4 (2024). [doi:10.61440/JCCR.2024.v2.11](https://doi.org/10.61440/JCCR.2024.v2.11)
 
 5. Khan Z, Ghani MU, **Mujtaba T**, Rehman SU, Khan KU, Maaz M, Muhammad AN.
    **Clinical audit of beam output of Cobalt-60 teletherapy unit at AECH-BINOR.**

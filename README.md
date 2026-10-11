@@ -25,6 +25,7 @@ Full author lists and citations: [`publications.bib`](https://github.com/ToobaAw
 | Project | Description |
 |---|---|
 | [qPCR Fold-Change Analyzer](https://github.com/ToobaAwais/qpcr-analyzer) | Web app for miRNA qPCR: hemolysis and spike-in QC, three normalisation strategies, ΔΔCt statistics and publication-ready figures. 44 automated tests. [Live app →](https://mirna-qpcr-analyzer.streamlit.app) |
+| [KAP Survey Analyzer](https://github.com/ToobaAwais/kap-survey-analyzer) | Web app for Knowledge, Attitude and Practice surveys: answer-key and Likert scoring, Bloom's cut-offs, KR-20/Cronbach's α, chi-square/Fisher tests and logistic regression (COR/AOR), with an auto-generated Word report. [Live app →](https://kap-analyzer.streamlit.app) |
 | [HCC miRNA Biomarker Analysis](https://github.com/ToobaAwais/HCC-miRNA-Biomarker-Analysis) | Integrated tissue (TCGA-LIHC) and serum (GEO) miRNA analysis for hepatocellular carcinoma progression and survival. Published in *Non-coding RNA Research* (2026). |
 
 ## What I do

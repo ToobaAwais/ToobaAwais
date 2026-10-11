@@ -35,15 +35,15 @@ I turn public and clinical omics data into publication-ready results. My work fo
 
 3. **Mujtaba T**, Hashmi SU, Imtiaz UB, Nusra SJF.
    **Devising a breast cancer diagnosis protocol through machine learning.**
-   *Brazilian Journal of Oncology*, 20 (2024).
+   *Brazilian Journal of Oncology*, 20 (2024). [doi:10.1055/s-0044-1791655](https://doi.org/10.1055/s-0044-1791655)
 
 4. Ahmed A, Rehman A, Ghani HMU, **Mujtaba T**, Khan NU, Rauf KUKM.
    **Evaluation of parameters affecting intrinsic uniformity to perform best optimum daily QC.**
    *Journal of Chemotherapy and Cancer Research*, 2(2), 1–4 (2024).
 
-5. Khan Z, Ghani MU, **Mujtaba T**, Rehman SU, Khan KU, Maaz M, et al.
+5. Khan Z, Ghani MU, **Mujtaba T**, Rehman SU, Khan KU, Maaz M, Muhammad AN.
    **Clinical audit of beam output of Cobalt-60 teletherapy unit at AECH-BINOR.**
-   *Open Access Library Journal*, 11(4), 1–7 (2024).
+   *Open Access Library Journal*, 11(4), 1–7 (2024). [doi:10.4236/oalib.1111446](https://doi.org/10.4236/oalib.1111446)
 
 ## Background
 

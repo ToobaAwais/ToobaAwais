@@ -6,6 +6,26 @@ I turn public and clinical omics data into publication-ready results. My work fo
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RLEWUKUAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tooba-mujtaba-a247ba190)
+![Publications](https://img.shields.io/badge/Peer--reviewed_publications-5-2ea44f?style=flat)
+
+## Featured publications
+
+| Year | Publication | Journal | Area |
+|---|---|---|---|
+| 2026 | **[Integrative analysis of tissue and circulating miRNAs as biomarkers for progression and survival in hepatocellular carcinoma](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2026-hcc-mirna-biomarkers.md)**<br>[DOI](https://doi.org/10.1016/j.ncrna.2025.11.002) · [Code](https://github.com/ToobaAwais/HCC-miRNA-Biomarker-Analysis) | *Non-coding RNA Research* | miRNA biomarkers · survival analysis |
+| 2025 | **[Assessment of molybdenum-99m content in 99Mo/Tc-99m generator: A clinical audit at Cancer Hospital](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2025-mo99-tc99m-generator-audit.md)**<br>[Article](https://www.pjnmed.com/?mno=195911) | *Pakistan Journal of Nuclear Medicine* | Nuclear medicine quality control |
+| 2024 | **[Devising a breast cancer diagnosis protocol through machine learning](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2024-breast-cancer-ml-diagnosis.md)**<br>[DOI](https://doi.org/10.1055/s-0044-1791655) · **First author** | *Brazilian Journal of Oncology* | Machine learning · cancer diagnostics |
+| 2024 | **[Evaluation of parameters affecting intrinsic uniformity to perform best optimum daily QC](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2024-gamma-camera-intrinsic-uniformity.md)**<br>[DOI](https://doi.org/10.61440/JCCR.2024.v2.11) | *Journal of Chemotherapy and Cancer Research* | Gamma camera quality control |
+| 2024 | **[Clinical audit of beam output of Cobalt-60 teletherapy unit at AECH-BINOR](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2024-cobalt60-beam-output-audit.md)**<br>[DOI](https://doi.org/10.4236/oalib.1111446) | *Open Access Library Journal* | Radiotherapy quality assurance |
+
+Full author lists and citations: [`publications.bib`](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications.bib)
+
+## Featured projects
+
+| Project | Description |
+|---|---|
+| [qPCR Fold-Change Analyzer](https://github.com/ToobaAwais/qpcr-analyzer) | Web app for miRNA qPCR: hemolysis and spike-in QC, three normalisation strategies, ΔΔCt statistics and publication-ready figures. 44 automated tests. [Live app →](https://mirna-qpcr-analyzer.streamlit.app) |
+| [HCC miRNA Biomarker Analysis](https://github.com/ToobaAwais/HCC-miRNA-Biomarker-Analysis) | Integrated tissue (TCGA-LIHC) and serum (GEO) miRNA analysis for hepatocellular carcinoma progression and survival. Published in *Non-coding RNA Research* (2026). |
 
 ## What I do
 
@@ -15,37 +35,6 @@ I turn public and clinical omics data into publication-ready results. My work fo
 - **Reproducible tools:** tested Python packages and Streamlit web apps for wet-lab researchers
 
 **Stack:** Python (pandas, SciPy, statsmodels, lifelines, scikit-learn) · R (limma, survival, clusterProfiler) · Google Colab · Streamlit · Git
-
-## Featured projects
-
-| Project | Description |
-|---|---|
-| [qPCR Fold-Change Analyzer](https://github.com/ToobaAwais/qpcr-analyzer) | Web app for miRNA qPCR: hemolysis and spike-in QC, three normalisation strategies, ΔΔCt statistics and publication-ready figures. 44 automated tests. [Live app →](https://mirna-qpcr-analyzer.streamlit.app) |
-| [HCC miRNA Biomarker Analysis](https://github.com/ToobaAwais/HCC-miRNA-Biomarker-Analysis) | Integrated tissue (TCGA-LIHC) and serum (GEO) miRNA analysis for hepatocellular carcinoma progression and survival. Published in *Non-coding RNA Research* (2026). |
-
-## Publications
-
-1. Jabri A, Mhannayeh A, Alsharif M, Taftafa B, **Mujtaba T**, Akbar A, Abu-zaid A, Mir TA, Khan MI, Ahmed F, Arora I, Yaqinuddin A.
-   **[Integrative analysis of tissue and circulating miRNAs as biomarkers for progression and survival in hepatocellular carcinoma](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2026-hcc-mirna-biomarkers.md).**
-   *Non-coding RNA Research*, 16, 167–177 (2026). [doi:10.1016/j.ncrna.2025.11.002](https://doi.org/10.1016/j.ncrna.2025.11.002)
-
-2. Ghani MU, **Mujtaba T**, Khan KU, Rehman SU, Rauf M, Rehman A.
-   **[Assessment of molybdenum-99m content in 99Mo/Tc-99m generator: A clinical audit at Cancer Hospital](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2025-mo99-tc99m-generator-audit.md).**
-   *Pakistan Journal of Nuclear Medicine*, 14(1) (2025). [Article](https://www.pjnmed.com/?mno=195911)
-
-3. **Mujtaba T**, Hashmi SU, Imtiaz UB, Nusra SJF.
-   **[Devising a breast cancer diagnosis protocol through machine learning](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2024-breast-cancer-ml-diagnosis.md).**
-   *Brazilian Journal of Oncology*, 20 (2024). [doi:10.1055/s-0044-1791655](https://doi.org/10.1055/s-0044-1791655)
-
-4. Ahmed A, Rehman A, Ghani HMU, **Mujtaba T**, Khan NU, Khan KU, Rauf M.
-   **[Evaluation of parameters affecting intrinsic uniformity to perform best optimum daily QC](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2024-gamma-camera-intrinsic-uniformity.md).**
-   *Journal of Chemotherapy and Cancer Research*, 2(2), 1–4 (2024). [doi:10.61440/JCCR.2024.v2.11](https://doi.org/10.61440/JCCR.2024.v2.11)
-
-5. Khan Z, Ghani MU, **Mujtaba T**, Rehman SU, Khan KU, Maaz M, Muhammad AN.
-   **[Clinical audit of beam output of Cobalt-60 teletherapy unit at AECH-BINOR](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications/2024-cobalt60-beam-output-audit.md).**
-   *Open Access Library Journal*, 11(4), 1–7 (2024). [doi:10.4236/oalib.1111446](https://doi.org/10.4236/oalib.1111446)
-
-Full citations for all papers: [`publications.bib`](https://github.com/ToobaAwais/ToobaAwais/blob/main/publications.bib)
 
 ## Background
 
